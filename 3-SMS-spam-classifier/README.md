@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/kbipin/Natural-Language-Processing/blob/master/3-SMS-spam-classifier/images/logo.png" alt="SpamClassifier">
+  <img src="https://github.com/kbipin/Natural-Language-Processing/blob/master/3-SMS-spam-classifier/images/logo.png" alt="SpamClassifier" width="100" height="100" >
   <br>
   SpamClassifier
   <br>
@@ -11,7 +11,8 @@
 ## SMS Spam Collection Data Set
 > You can collect raw dataset from [here](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection).
 ## ModelPipeline:
+
 <p align="center">
   <br>
-  <img src="https://github.com/kbipin/Natural-Language-Processing/blob/master/3-SMS-spam-classifier/images/ModelPipeline.jpg">
+  <img src="https://github.com/kbipin/Natural-Language-Processing/blob/master/3-SMS-spam-classifier/images/ModelPipeline.jpg" width="420" height="340">
 </p>
