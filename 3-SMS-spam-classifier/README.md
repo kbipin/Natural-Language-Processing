@@ -14,5 +14,5 @@
 
 <p align="center">
   <br>
-  <img src="https://github.com/kbipin/Natural-Language-Processing/blob/master/3-SMS-spam-classifier/images/ModelPipeline.jpg" width="420" height="340">
+  <img src="https://github.com/kbipin/Natural-Language-Processing/blob/master/3-SMS-spam-classifier/images/ModelPipeline.jpg">
 </p>
