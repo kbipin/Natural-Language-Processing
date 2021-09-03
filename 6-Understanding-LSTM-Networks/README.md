@@ -1,12 +1,11 @@
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/kbipin/Natural-Language-Processing/blob/master/3-SMS-spam-classifier/images/logo.png" alt="SpamClassifier" width="100" height="100" >
-  <br>
-  SpamClassifier
+  Understanding LSTM Networks   
   <br>
 </h1>
-<h4 align="center">In this project We would build a model for classifying the SMS into spam or ham through the text of the SMS using standard classifiers.</h4>
+
+> You could collect refer the detail [here](https://colah.github.io/posts/2015-08-Understanding-LSTMs/).
 
 ## SMS Spam Collection Data Set
 > You can collect raw dataset from [here](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection).
