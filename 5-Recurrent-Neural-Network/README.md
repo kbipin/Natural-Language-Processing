@@ -1,18 +1,15 @@
 
-<h1 align="center">
+<h1 align="center">  
   <br>
-  <img src="https://github.com/kbipin/Natural-Language-Processing/blob/master/3-SMS-spam-classifier/images/logo.png" alt="SpamClassifier" width="100" height="100" >
+  Recurrent-Neural-Network
   <br>
-  SpamClassifier
+  <img src="https://github.com/kbipin/Natural-Language-Processing/blob/master/5-Recurrent-Neural-Network/images/RNN.jpeg" width="500" height="300" >
   <br>
 </h1>
-<h4 align="center">In this project We would build a model for classifying the SMS into spam or ham through the text of the SMS using standard classifiers.</h4>
-
-## SMS Spam Collection Data Set
-> You can collect raw dataset from [here](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection).
-## ModelPipeline:
-
-<p align="center">
+<h1 align="center">  
   <br>
-  <img src="https://github.com/kbipin/Natural-Language-Processing/blob/master/3-SMS-spam-classifier/images/ModelPipeline.jpg">
-</p>
+  Back Propagation Through Time
+  <br>
+  <img src="https://github.com/kbipin/Natural-Language-Processing/blob/master/5-Recurrent-Neural-Network/images/BPTT.jpeg" width="500" height="300" >
+  <br>
+</h1>
